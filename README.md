@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/BlankiWRLD/BlankiWRLD/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
