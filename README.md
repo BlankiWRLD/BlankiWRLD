@@ -1,4 +1,4 @@
-<h2 align="left">Just normal boy from Poland 😜</h2>
+<h2 align="center">Just normal boy from Poland 😜</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -41,14 +41,14 @@
 
 ###
 
-
+<div align="center">
+  
 [![Discord Presence](https://lanyard.cnrad.dev/api/940164096236589076)](https://discord.com/users/940164096236589076)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=huk5sw3po8l5sl2yn8q71p3t4)
 
 <img align="center" height="160" src="https://lh3.googleusercontent.com/O47krsQy6fnWJvEmpeO_ZnOfqU4DnxnDw00CQPcI_c6Kr9JV93AmPbHDKuEqdrPQpo_-6hWK-pm27S6YUytAT0XTkmyi_MkZwcBX1g=w600"  />
-
-###
+</div>
 
 <br clear="both">
 
