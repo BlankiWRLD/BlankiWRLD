@@ -41,6 +41,11 @@
 
 ###
 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/940164096236589076)](https://discord.com/users/940164096236589076)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=huk5sw3po8l5sl2yn8q71p3t4)
+
 <img align="right" height="160" src="https://lh3.googleusercontent.com/O47krsQy6fnWJvEmpeO_ZnOfqU4DnxnDw00CQPcI_c6Kr9JV93AmPbHDKuEqdrPQpo_-6hWK-pm27S6YUytAT0XTkmyi_MkZwcBX1g=w600"  />
 
 ###
